@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <!-- 主题色 -->
+    <color name="app_theme">#3694F6</color>
+    <color name="app_theme_dark">#296BB1</color>
+    <color name="app_warn">#ce3d3a</color>
+    <!-- 窗口背景色 -->
+    <color name="window_theme">@color/app_theme</color>
+    <color name="window_content">#FFFFFF</color>
+    <color name="window_empty">#EDF0F2</color>
+    <color name="window_black">#000000</color>
+    <color name="window_layer_black">#33000000</color>
+    <!-- 分割线色 -->
+    <color name="divider_normal">#cdcdcd</color>
+    <!-- 文字色 -->
+    <color name="text_title">#222222</color>
+    <color name="text_title_sub">#333333</color>
+    <color name="text_content">#555555</color>
+    <color name="text_content_sub">#888888</color>
+    <color name="text_hint">#B3B3B3</color>
+    <color name="text_link">#477aac</color>
+    <color name="text_white">@color/white</color>
+    <color name="text_warn">@color/app_warn</color>
+    <color name="text_theme">@color/app_theme</color>
+    <!-- 按钮色 -->
+    <color name="btn_theme">@color/app_theme</color>
+    <color name="btn_black">#222222</color>
+    <color name="btn_white">@color/white</color>
+    <color name="btn_transparent">@color/transparent</color>
+    <color name="btn_unable">#B4B4B4</color>
+    <!-- 水波纹色 -->
+    <color name="ripple_theme">@color/app_theme_dark</color>
+    <color name="ripple_grey">#B4B4B4</color>
+</resources>
